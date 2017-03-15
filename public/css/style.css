@@ -1,0 +1,224 @@
+
+body {	
+	padding-top:    90px;
+	padding-bottom: 0px;
+	background:     #efefef;
+	font-family: '', sans-serif;
+	
+	
+}
+
+
+
+/* ######################################   HEADER   ###################################### */
+
+header nav{
+	padding-left:  50px;
+	padding-right: 50px;
+}
+header li:hover{
+	background: #444;	
+
+}
+header nav a{
+	display: inline-block;
+}
+header nav img{
+	height:     100%;
+	width:      auto;
+}
+
+
+
+
+/* ######################################   ASIDE   ###################################### */
+
+
+.sidebar{	 
+	width:      50px; /*185px;*/
+	height:     1400px;
+	background: #262626; /*#333;*/
+	color:      #FFF;
+	outline: 1px solid #2a2a2a;
+}
+/*
+.menu{
+	text-align: center;
+	margin:  0px;
+	padding: 10px;
+	background: #2a2a2a;
+	outline: 1px solid #2a2a2a;
+}
+.menu-text{
+	display: inline-block;
+}
+.menu-icon{
+	display: inline-block;
+}
+.sidebar ul{
+	list-style: none;
+	padding: 0;
+}
+.sidebar li{
+	outline: 1px solid #2a2a2a;
+	transition: all 0.3s;
+}
+.sidebar li:hover{
+	background: #444;
+	border-left: 2px solid #eee;
+}
+.sidebar a{
+	display: block;
+	color:   #FFF;
+	text-decoration: none;
+	margin:  0px;
+	padding: 10px;
+}
+*/
+
+
+
+
+
+
+
+/* ######################################   SECTION   ###################################### */
+
+.seccion{
+	width: 100%;
+	overflow: hidden;
+}
+.izquierda{
+	display: table-cell;
+	
+
+}
+.derecha{
+	display: table-cell;
+	padding-top:  5px;
+	padding-left: 0px; /*5px;*/
+}
+
+.container-list{ 
+	padding-left:  30px;
+	padding-right: 50px;
+}
+.container-create{ 
+	padding-top:   50px;
+	padding-left:  210px;/*120px;*/
+	padding-right: 250px;/*300px;*/
+}
+
+.mytable{ 
+	display: table; 
+}
+
+.header-page{
+	overflow: hidden;
+}
+.izquierda-page{
+	display: inline-block;
+}
+.centro-page{
+	display: inline-block;
+	padding-left: 480px;
+}
+.derecha-page{
+	display: inline-block;	
+}
+
+
+/* #####################################    FOOTER   ######################################## */
+
+
+footer{   
+    width: auto;
+    height: 100px;   
+    text-align: center;
+    background: #262626; /*#333;*/
+     
+            
+}
+footer p{
+	padding-top: 30px;
+	color: #efefef;
+}
+
+
+
+
+
+
+
+/*
+
+
+header nav a{
+	display: inline-block;
+}
+
+.navbar-brand>img {
+	height:     100%;
+	width:      auto;
+}
+
+.container-footer{
+    width: auto;
+    height: 100px;   
+    margin: auto;    
+    background: #333;  
+}
+
+
+section aside article img{
+	height: auto;
+	float: left;
+	padding: 20px;
+}
+section aside article p{
+	color: #FFFFFF;
+	font-family: Verdana;
+	font-size: 20px;
+	padding-top: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+section div{
+	display: inline-block;
+	width: auto;
+	height: auto;
+	background: #e5e5e5; 
+	margin: 10px;
+	box-shadow: 1px 1px 5px #000;
+	padding-bottom: 20px;
+}
+section aside{
+	display: inline-block;
+	width: 200px;
+	height: auto;
+	background: #b4b4b6;
+	float: left;
+}
+section aside article{
+	width: auto;
+	background: #e5e5e5;
+	height: auto;
+	margin-bottom: 10px;
+}
+
+
+
+*/
+
+
+
+
+
